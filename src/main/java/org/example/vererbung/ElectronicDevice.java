@@ -1,3 +1,4 @@
+package org.example.vererbung;
 public class ElectronicDevice {
     private int priceInCent;
     private int energyConsumptionInWatt;

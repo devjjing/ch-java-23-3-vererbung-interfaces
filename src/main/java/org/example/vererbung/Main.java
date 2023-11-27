@@ -1,5 +1,8 @@
+package org.example.vererbung;
+
 public class Main{
     public static void main(String[] args){
+
         ElectronicDevice mouse = new ElectronicDevice();
         mouse.setPriceInCent(8790);
         mouse.setName("MX Master 3S");
@@ -16,6 +19,8 @@ public class Main{
         smartTv.setEnergyConsumptionInWatt(90);
         smartTv.setResolutionX(3840);
         smartTv.setResolutionY(2160);
+
+        //Fahrzeug auto
     }
     public static void printElectronicDevice(ElectronicDevice a) {
         System.out.println(a);
