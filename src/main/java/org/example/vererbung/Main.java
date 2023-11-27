@@ -6,7 +6,7 @@ public class Main{
         ElectronicDevice mouse = new ElectronicDevice();
         mouse.setPriceInCent(8790);
         mouse.setName("MX Master 3S");
-        mouse.setEnergyConsumptioninWatt(1);
+        mouse.setEnergyConsumptionInWatt(1);
 
         ElectronicDevice keyboard = new ElectronicDevice();
         keyboard.setPriceInCent(9590);
